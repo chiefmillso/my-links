@@ -8,5 +8,6 @@
   - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628
   - http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
 * http://singlepageappbook.com/
+* http://www.wwwlicious.com/ - ServiceStack
 
 ## Personal Development
