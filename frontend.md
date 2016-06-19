@@ -11,3 +11,7 @@
 - https://dribbble.com
 - http://paletton.com/
 - http://leaverou.github.io/contrast-ratio/
+
+
+## JS / TS
+* http://frhagn.github.io/Typewriter/index.html
